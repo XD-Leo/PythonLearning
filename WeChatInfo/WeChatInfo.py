@@ -101,6 +101,9 @@ def draw_signature():
 
 
 if __name__ == '__main__':
+    # 统计好友性别信息并画图
     # parse_friends()
+    # 爬取好友个性签名保存到文本文件
     # parse_signature()
+    # 根据文本文件画出词云
     draw_signature()
